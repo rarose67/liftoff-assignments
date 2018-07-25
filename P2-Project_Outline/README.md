@@ -24,3 +24,6 @@ I have seen other sites where users can determine the amount of income given by 
 *	JQuery
 ### What I'll Have to Learn
 I will have to learn how to perform a search based on multiple criteria at once possibly using JavaScript and SQL.  I also have to learn how to retriever and parts Json data from an API.  Finally, I would like to learn how to create Dynamic menus and panels to make the font in more aesthetically pleasing.
+
+### Project Tracker
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2185692)
