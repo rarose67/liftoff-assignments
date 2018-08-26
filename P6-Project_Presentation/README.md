@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Presentation](https://github.com/rarose67/liftoff-assignments/blob/master/C1-Online_Profiles/TECH%20RESUME.pdf)
