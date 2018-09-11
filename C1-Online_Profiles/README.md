@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [GitHub](https://github.com/rarose67)
 
 ### LinkedIn
-[Linkedin](Linkedin.com/in/robert-a-rose)
+[Linkedin](https://Linkedin.com/in/robert-a-rose)
 
 ### Resume
 [Resume](https://github.com/rarose67/liftoff-assignments/blob/master/C1-Online_Profiles/TECH%20RESUME.pdf)
